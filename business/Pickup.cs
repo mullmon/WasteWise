@@ -1,7 +1,7 @@
 using System;
 using System.IO;
 
-abstact class Pickup{
+abstract class Pickup{
 
     public abstract int cost;
 

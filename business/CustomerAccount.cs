@@ -14,11 +14,11 @@ public class CustomerAccount{
         count_empty_trash ++;
     }
 
-    public writeOut(){
+    public string writeOut(){
         
     }
 
-    public accounting(){
+    public void accounting(){
 
     }
 }
